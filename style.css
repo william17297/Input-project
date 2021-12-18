@@ -1,0 +1,20 @@
+li{
+    display:flex;
+    width: 2em;
+ 
+    border-style: dashed;
+   justify-content: center;
+}
+div{
+    border: solid;
+   display: flex;
+   
+
+   display: flex;
+   text-align: center;
+  flex-direction: column;
+  margin-left: 25vw;
+margin-right: 25vw;
+    
+
+}
